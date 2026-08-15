@@ -24,6 +24,7 @@ x64/
 x86/
 build/
 bld/
+data/
 [Bb]in/
 [Oo]bj/
 msbuild.log
@@ -50,3 +51,7 @@ msbuild.wrn
 *.tfvars
 *.tfvars.json
 *.tf
+alert-rules-exam.yml
+alertmanager-exam.yml
+grafana.json
+prometheus-exam.yml
