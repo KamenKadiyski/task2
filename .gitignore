@@ -40,6 +40,7 @@ msbuild.wrn
 # Игнориране на заключващите файлове на състоянието (State Lock)
 *.tfstate.lock.info
 .terraform.tfstate.lock.info
+*.lock.*
 
 # Игнориране на файловете със състоянието на инфраструктурата (съдържат тайни)
 *.tfstate
